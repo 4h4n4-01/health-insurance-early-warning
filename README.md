@@ -1,6 +1,6 @@
 # Early-Warning Screening of Unprofitable Health-Insurance Policies
 
-Group project, SMU MITB coursework (2026): Ahana Sarkar and a team of four.
+Group project, SMU MITB coursework (2026):
 
 **Question.** Which existing health-insurance policies are likely to become unprofitable (annual claim cost above annual premium), and can a model rank them well enough to focus underwriting review?
 
